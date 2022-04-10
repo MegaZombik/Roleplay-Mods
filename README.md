@@ -1,2 +1,2 @@
-# Roleplay-Mods
-Mods for rp for moth
+# mods-for-rp
+for friends
